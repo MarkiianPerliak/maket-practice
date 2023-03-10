@@ -1,0 +1,29 @@
+body {
+    background-size: 100%;
+}
+.Texth1 {
+    color: white;
+    text-align: center;
+    font-size: 60px;
+}
+.margin-text {
+    margin-left: 300px;
+    color: white;
+    margin-top: 50px;
+}
+.alignh3 {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+button {
+    border-radius: 32px;
+}
+.hero {
+    background-image: url(./image/desk-header\ 1.jpg);
+    height: 700px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+    
