@@ -16,8 +16,9 @@ body {
     color: white;
     font-size: 20px;
 }
-button {
-    border-radius: 32px;
+.button {
+    border-color: blueviolet;
+    border-bottom: 3px;
 }
 .hero {
     background-image: url(./image/desk-header\ 1.jpg);
