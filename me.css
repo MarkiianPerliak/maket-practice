@@ -1,0 +1,19 @@
+
+body {
+    background-color: white;
+}
+img {
+    margin-left: 450px;
+    margin-top: 30px;
+}
+.pop-cat-text {
+    font-size: 100px;
+    text-align: center;
+    color: white;
+}
+body {
+    background-image: url(./image/pop-cat-imposter.jpg);
+    height: 700px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

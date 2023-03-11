@@ -16,9 +16,16 @@ body {
     color: white;
     font-size: 20px;
 }
-.button {
-    border-color: blueviolet;
-    border-bottom: 3px;
+button {
+    border-color: black;
+    border-bottom: 2px;
+    background: rgba(255, 78, 80, 1);
+    border-radius: 32px;
+    width: 200px;
+    height: 50px;
+    font-size: 15px;
+    position: absolute;
+    left: 43%;
 }
 .hero {
     background-image: url(./image/desk-header\ 1.jpg);
