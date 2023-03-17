@@ -1,6 +1,10 @@
 body {
     background-size: 100%;
 }
+*{
+    margin: 0;
+    padding: 0;
+}
 .Texth1 {
     color: white;
     text-align: center;
@@ -9,7 +13,7 @@ body {
 .margin-text {
     margin-left: 300px;
     color: white;
-    margin-top: 50px;
+    
 }
 .alignh3 {
     text-align: center;
@@ -29,9 +33,9 @@ body {
 }
 .hero {
     background-image: url(./image/desk-header\ 1.jpg);
-    height: 700px;
     background-size: cover;
     background-repeat: no-repeat;
+    padding-top: 42px;
 }
 .img1 {
     position: relative;
@@ -83,5 +87,7 @@ body {
     left: 150px;
     color: #FF4E50;
 }
-
+.hero-box {
+    
+}
     
